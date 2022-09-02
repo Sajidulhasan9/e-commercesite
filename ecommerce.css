@@ -1,0 +1,1284 @@
+  <a href="https://tumblr.com"target="new"><img src="img/tu.png"></a>   
+for adding social website
+
+
+
+
+<div class="icon">
+      <a href="https://www.facebook.com"target="new"><img src="f.png"></a>
+      <a href="https://gmail.com"target="new"><img src="g.png"></a>
+      <a href="https://www.pinterest.com/"target="new"><img src="p.png"></a>
+      <a href="https://www.instagram.com"target="new"><img src="i.jpeg"></a>
+    </div>
+
+
+
+for add social website
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title> CF'S MART </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+	<div class="main">
+		<div class="topbar"></div>
+		<div class="social_icon"></div>
+
+		<div  class="logo">
+			<img src="cfs.png">
+		</div>
+		<ul>
+        <li class="active"><a href="#">Mens</a><li>
+		<li class="on"><a href="#">Womens</a><li>
+		<li class=" go"><a href="#">Watch</a><li>
+		<li class=" go"><a href="#">Shoe</a><li>
+		<li class=" go"><a href="#">Perfume</a><li>	
+		<li class=" go"><a href="#">Belt</a><li>
+		<li class="move"><a href="#">New Product</a><li>
+		<li class="open"><a href="#">Discount Product</a><li>
+			
+		</ul>	
+	</div>
+</head>
+<body>
+	
+</body>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+
+<div class="top-nav-bar">
+<div class="search-box">
+<input type=" text" class="from-control">
+<span class="input-group-text"><i class="fa fa-search"  aria-hidden="true"></i></span>
+
+</div>
+</div>
+
+<div class="menu-bar">
+
+   <ul>
+	  <li><a href="#"><i class="fa fa-shopping-basket" aria-hidden="true"></i>cart</a></li>
+      <li><a href="#">Sign Up </a></li>
+      <li><a href="#">Log In </a></li>
+   </ul>
+
+<div class="Icon">
+	<a href="https://www.facebook.com" target="new"><img src="f.png"></a>
+	<a href="https://gmail.com" target="new"><img src="g.png"></a>
+	<a href="https://www.pinterest.com" target="new"><img src="p.png"></a>
+	<a href="https://www.twitter.com" target="new"><img src="t.png"></a>
+
+</div>
+
+</div>
+     </div class="container">
+     <h2>Cf's Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p1.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>HUBLOT WATCH</h3>
+     <h5> 1500.00 Taka</h5>
+     </div>  
+
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p2.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>OMEGA WATCH</h3>
+     <h5> 2000.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p3.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>SEIKO WATCH</h3>
+     <h5> 2500.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p4.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>VINTAGE LEATHER WATCH</h3>
+     <h5> 2300.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p5.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>CASIO WATCH</h3>
+     <h5> 6500.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p6.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>CURREN 8321 Full Steel WATCH</h3>
+     <h5> 1500.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p7.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3> Leather Belt</h3>
+     <h5> 1500.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p8.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>CK Belt For Men</h3>
+     <h5> 1200.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="coloumn">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p9.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Louis Vuitton Belt</h3>
+     <h5> 1200.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p10.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Louis Vuitton Belt</h3>
+     <h5> 1000.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S  Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p11.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Original Leather</h3>
+     <h5> 1000.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p12.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Gucci Classic Belt </h3>
+     <h5> 1100.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p13.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Hoblot Watch</h3>
+     <h5> 1500.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p14.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Jaguar BlacK Perfume</h3>
+     <h5> 1100.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p15.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Axe Signature</h3>
+     <h5> 700.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p16.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Wild Stone Perfume</h3>
+     <h5> 1200.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p17.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>King Loafers</h3>
+     <h5> 2500.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p18.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Original Leather Loafers</h3>
+     <h5> 3000.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p19.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Loafers For Man</h3>
+     <h5> 3000.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p20.jpeg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Loafers Premium</h3>
+     <h5> 2000.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p21.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Exclusive Stylish Panjabi with koti</h3>
+     <h5> 4500.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p22.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3> Stylish Panjabi with koti</h3>
+     <h5> 4200.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p23.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>HAPPY BIRTHDAY banner</h3>
+     <h4>All Color Are Available</h4>
+     <h5> 300.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p24.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Birthday Color Candle</h3>
+     <h4>Per Piece 50 tk</h4>
+     <h5> 400.00 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p25.jpeg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Part Spray</h3>
+     <h5>100 taka(per Piece)</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p26.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Party Propper</h3>
+     <h4>Small/Big are Available</h4>
+     <h5> 70/140 Taka</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p27.jpeg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Party Spray</h3>
+     <h5> 60.00 Taka(Per Piece)</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p28.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Spark Candle</h3>
+     <h5> 60.00 Taka Each</h5>
+     </div>
+
+   </div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p29.jpeg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>Party Ballon</h3>
+     <h4>Minimum Order 50 piece</h4>
+     <h5> 6.00 Taka(Per Piece)</h5>
+     </div>
+</div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="p30.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>FOSSIL WATCH</h3>
+     <h5> 15000.00 Taka</h5>
+     </div>
+
+  </div>
+     </div class="container">
+     <h2>CF'S Mart</h2>
+     <div class="row">
+     <div class="col-md-3">
+     <div class="product-top">
+     <img src="P31.jpg">
+     <div class="overlay">
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Wishlist"><i class="fa fa-eye"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Quick Shop"><i class="fa fa-heart-o"></i></buttom>
+     <buttom type="button" class="btn btn-secondary" tittle="Add to Cart"><i class="fa fa-shopping-cart"></i></buttom>
+     	
+    </div>
+     </div>
+
+     	<div class="Product-bottom text-center">
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star"></i>
+     	<i class="fa fa-star-half-o"></i>
+     	<i class="fa fa-star-o"></i>
+
+     <h3>BREITLING WATCH</h3>
+     <h5> 18500.00 Taka</h5>
+     </div>
+</div>
+     	
+     </div>
+     	
+     </div>
+</body>
+
+</html>
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CF'S WORLD</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <header>
+	<div class="main">
+		<div  class="logo">
+			<img src="logo.png">
+		</div>
+		<ul>
+        <li class="active"><a href="#">Home</a><li>
+		<li class="on"><a href="#">Services</a><li>
+		<li class=" go"><a href="#">About Us</a><li>
+		<li class="move"><a href="#">Gallery</a><li>
+		<li class="open"><a href="#">Contact</a><li>
+			
+		</ul>	
+	</div>
+</header>
+</body>
+</html>
+
+
+
+
+fulll html here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+	margin: 0;
+	padding:0;
+	font-family:Century Gothic;
+}
+header{
+	background-color: white;
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.main{
+	width:1000px;
+	height: auto;
+	background-color: gray;
+	min-height:500px; 
+	margin: 0 auto;
+
+}
+.topbar{
+	width: 1000px;
+	height:4px;
+	background-color: #fcc508;
+
+}
+.socail_icon{
+	position: top-right;
+	width: 1000px;
+	height: 33px;
+	background-color: #2a2b2c;
+
+}
+body
+{
+	background-color: black;
+	font-family: sans-serif;
+.top-nav-bar
+{
+	height:57px;
+	top:0px;
+    position:sticky;
+    background: #fff;
+    margin-bottom: 20px;
+    border-bottom: 3px solid orange;
+    z-index: 2;
+}
+.logo
+{
+	height: 40px;
+	margin: 5px 10px;
+	position: top;
+
+}
+.from-control
+{
+	margin-top: 9px;
+	margin-left: 30px;
+	border:1px solid orange ! important;
+	border-bottom-left-radius: 20px ! important;
+	border-bottom-right-radius: 0 ! important;
+	box-shadow: none ! important;
+}
+.input-group-text
+{
+	background: orange;
+	border: 5px solid orange ! important;
+	margin: 8.5PX 10px 3px 0 ! important;
+	border:1px solid orange ! important;
+	border-bottom-left-radius: 0px ! important;
+	border-bottom-right-radius: 20px ! important;
+	border-top-right-radius: 20px ! important;
+}
+.search-box
+{
+	display: inline-flex;
+	width: 60%;
+	margin-left: 0%;
+	margin-top:0%;
+}
+fa-search
+{
+	color:#fff;
+}
+.menu-bar
+{
+	width: 40%;
+	height:57px;
+	float: right;
+}
+.menu-bar ul
+{
+	border-left: 1px solid #fff;
+	list-style-type: none;
+	padding:15px 35px;
+	text-align: center;
+	background-color: orange;
+	cursor: pointer;
+
+}
+.menu-bar ul li a
+{
+	font-size:16px;
+	font-weight: bold;
+	color:#fff;
+	text-decoration:none;
+
+}
+.fa-shopping-basket
+{
+	margin-right: 5px;
+
+}
+@media only screen and (max-width: 980px)
+{
+	.top-nav-bar
+	{
+		height: 118px;
+		border-bottom: 1%;
+	}
+	.search-box
+	{
+		width: 100%;
+	}
+	.menu-bar
+	{
+		width: 100%;
+	}
+	.menu-bar ul li
+	{
+		height: 57px;
+		width: 100%;
+
+	}
+
+}
+.container
+{
+	width: 100%;
+	margin-top: 10px;
+	font-family: sans-serif;
+	letter-spacing: 1px;
+}
+.container h2
+{
+	background: #0062cc;
+	color:#fff;
+	width: 280px;
+	height: 50px;
+	font-size: 24px;
+	padding: 5px;
+	margin-top: 0;
+
+}
+.container h2::after
+{
+	content:'';
+	border-top: 40px solid #0062cc;
+	border-right:40px solid transparent;
+	position:relative;
+	left: 64px;
+	top: 34px;
+
+}
+.row
+{
+	margin-top: 30px;
+
+}
+.container img
+{
+	width: 100%;
+	height:270px;
+
+}
+.product-botton .fa
+{
+	color:#696969;
+	font-size: 10px;
+
+}
+.product-botton h3
+{
+	color:#006400;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+.product-botton h5
+{
+	font-size: 15px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	color: #008080;
+}
+
+.overlay
+{
+	display:block;
+	opacity: 0;
+	position: absolute;
+	top: 10%;
+	margin-left: 0%;
+	width: 70px;
+
+}
+.product-top .overlay:hover
+{
+	opacity: 1;
+	margin-left: 5%;
+	transition:0.1s;
+
+}
+.overlay .fa
+{
+	cursor: pointer;
+	background-color #000000;
+	color: #00BFFF;
+	height: 35px;
+	width: 35px;
+	font-size: 20px;
+	padding: 7px;
+	margin: 5%;
+	margin-bottom: 10%;
+}
+.social_icon
+{
+
+	cursor: pointer;
+	width:50%;
+	height: 35px;
+	padding: 7px;
+	margin: 5%;
+	margin-bottom: 0%;
+
+
+}
+.icon img
+{
+margin-top: 5px;
+margin-bottom: 0px;
+width: 35px;
+height: 32px;
+
+}
+.icon{
+	padding-top: 0px;
+	padding-left:35%; 
+
+}*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+
+}	
+header{
+	background-image:url(../1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+ul{
+   float:right;
+   list-style-type:none;
+   margin-top:30px; 	
+}
+ul li{
+	display:inline-block;
+
+}
+ul li a{
+     text-decoration:none;
+     color:white;
+     padding:5px 20px;
+     border:1px solid white;
+     transition: 0.6s ease;
+	}
+ul li a:hover{
+    background-color:green;
+    color:white;
+}
+ul li .active a{
+	 background-color:green;
+    color:white;
+}
+ul li .on a{
+	background-color:green;
+    color:white;
+}
+ul li .go a{
+	 background-color:green;
+    color:white;
+}
+ul li .move a{
+	 background-color:green;
+    color:white;
+}
+ul li .open a{
+	 background-color:green;
+    color:white;
+    }
+.logo img{
+	float:left;
+	width:200px;
+	height:auto;
+}
+.main{
+	max-width:1200PX;
+    margin:auto;
+}
+.title{
+
+	position:absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+
+}
+.title h1{
+	color: green;
+	font-size:100px;
+	font-style: all;
+}
+.button{
+	position: absolute;
+    top:60%;
+	left:50%;
+	transform:translate(-50%,-50%);	
+}
+.btn{
+	border: 1px solid white;
+	padding: 10PX 30px;
+	color: white;
+	text-decoration:none;
+	transition: 0.06s ease;
+}
+.btn:hover{
+	 background-color:maroon;
+    color:white;
+    animation: animate2 1s linear infinite;
+    animation-delay: 0.25s;
+}
+
+
+
+
+full css is here
